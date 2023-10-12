@@ -1,2 +1,3 @@
 xcode build for existing project - https://nishabe.medium.com/how-to-integrate-react-native-code-with-an-existing-ios-app-655c61a65b8c
 error on installing pods - https://github.com/stripe/stripe-react-native/issues/1280
+podfile update - https://stackoverflow.com/questions/72289521/swift-pods-cannot-yet-be-integrated-as-static-libraries-firebasecoreinternal-lib
